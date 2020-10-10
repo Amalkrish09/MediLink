@@ -571,7 +571,7 @@ ul {
 
 /*=================== custom button rule start ====================*/
 /* line 98, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_button.scss */
-.button {
+.button { 
   display: inline-block;
   border: 1px solid transparent;
   font-size: 15px;
